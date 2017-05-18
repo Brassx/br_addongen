@@ -1,0 +1,9 @@
+c:\users\brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Debug\BrassGAddonGen.exe.config
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Debug\BrassGAddonGen.exe
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Debug\BrassGAddonGen.pdb
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.csprojResolveAssemblyReference.cache
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.Form1.resources
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.Properties.Resources.resources
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.csproj.GenerateResource.Cache
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.exe
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Debug\BrassGAddonGen.pdb

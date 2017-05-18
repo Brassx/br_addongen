@@ -1,0 +1,8 @@
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Release\BrassGAddonGen.exe.config
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Release\BrassGAddonGen.exe
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\bin\Release\BrassGAddonGen.pdb
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Release\BrassGAddonGen.Form1.resources
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Release\BrassGAddonGen.Properties.Resources.resources
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Release\BrassGAddonGen.csproj.GenerateResource.Cache
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Release\BrassGAddonGen.exe
+C:\Users\Brass\documents\visual studio 2015\Projects\BrassGAddonGen\BrassGAddonGen\obj\Release\BrassGAddonGen.pdb
